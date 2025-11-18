@@ -144,6 +144,12 @@ ENV/
 env.bak/
 venv.bak/
 
+# Project specific
+credentials.json
+students.db
+*.db
+*.db-journal
+
 # Spyder project settings
 .spyderproject
 .spyproject
